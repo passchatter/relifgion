@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,100;1,400&family=Open+Sans:ital,wght@0,400;1,500&display=swap');
+
+.section{
+  @apply py-20
+}
